@@ -14,6 +14,7 @@ This page generates a new Monero or Aeon address. It is self contained and does 
 
 ## Donation
 
+```
 moneromooo:
 
 Monero: 4AfUP827TeRZ1cck3tZThgZbRCEwBrpcJTkA1LCiyFVuMH4b5y59bKMZHGb9y58K3gSjWDCBsB4RkGsGDhsmMG5R2qmbLeW
@@ -25,6 +26,7 @@ Townforge: TF1MMDuPzx7CVoCDSjxEHGLQPvdRy5Mjjyg4KG8QY3qkZZVtBobvGkvv4JLbycx1UQros
 xmraddress.org:
 
 Monero: 48kz6AXDGjT5ALPpR3nVcsG9UW271Nype9QWizRx4xYj18QaxfmR9E9UPRUCbjLwNW42AXaRNbeurZnUJ5TXoUoUT6vWuJc
+```
 
 ## LICENSE
 
