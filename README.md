@@ -4,8 +4,6 @@
 
 https://xmraddress.org
 
-https://xmraddress-org.ipns.cf-ipfs.com/ ( [IPNS](https://docs.ipfs.tech/concepts/ipns/) )
-
 ## About
 
 Monero/Aeon offline wallet generator forked from https://github.com/moneromooo-monero/monero-wallet-generator.
