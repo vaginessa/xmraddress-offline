@@ -11227,7 +11227,7 @@ place any email address in a new GPG key, so the right email being shown is no g
   Show warning popup for online version
 -->
 <script>
-if (window.location.href === 'https://xmraddress.org') {
+if (window.location.href.includes('xmraddress.org')) {
   Swal.fire(
     'You are using generator online',
     'Always download, verify & use the code <a href="https://raw.githubusercontent.com/xmraddress/xmraddress.org/master/index.html">offline</a>.'
